@@ -16,7 +16,7 @@ Project 1 consist of a frontend ReactJS project. Make sure to have:
 
 ## Rubric
 | Criteria | Beginning | Meeting | Exceeding |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | <strong>Design</strong> | Fails to have a proper wireframe design, or any design. No documentation provided. | Some design documents are present, at the very least a wireframe. There is some documentation on project structure. | A well thought out and planned design is given wit ha wireframe as well as other design models. There is clear and precise documentation for each page of the application/website. |
 | <strong>Variables</strong> | Fails to use proper syntax in declaring variables. Variable names are vague and hold little meaning. |  Variables are declared using proper syntax. Variable names hold some meaning. | Variables are declared with proper syntax. Variables are declared only when needed. Variable names give a great amount of insight in their use.|
 | <strong>Functions</strong> | Fails to use proper syntax in declaring functions. Function names are vague with little meaning. Functionality is focused on vague tasks, or else no task at all, and not a single specific task. | Functions are declared using `arrow function` syntax, and properly structured using the correct syntax. Functionality is relatively well focused on a single task. | Functions are declared using `arrow function` syntax, and properly structured using the correct syntax. Quick returns are placed where appropriate. Functionality is very focused on a single task. |
